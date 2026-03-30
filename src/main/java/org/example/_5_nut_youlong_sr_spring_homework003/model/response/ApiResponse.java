@@ -1,4 +1,4 @@
-package sr._5_nut_youlong_sr_spring_homework002.models.response;
+package org.example._5_nut_youlong_sr_spring_homework003.model.response;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
